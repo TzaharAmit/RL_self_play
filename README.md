@@ -3,16 +3,14 @@
 This repository contains an implementation of reinforcement learning agents developed for solving complex decision-making tasks. 
 
 ## Our Work
-This project explores **symbolic reasoning in combinatorial spaces** using a **self-play reinforcement learning framework,** inspired by core principles of the *EvoPlay* approach presented in the [article](https://www.nature.com/articles/s42256-023-00691-9):
-
-> *"Self-play reinforcement learning guides protein engineering"*
+This project explores **symbolic reasoning in combinatorial spaces** using a **self-play reinforcement learning framework,** inspired by core principles of the *EvoPlay* approach presented in the [article](https://www.nature.com/articles/s42256-023-00691-9): "Self-play reinforcement learning guides protein engineering"
 
 We investigate whether methods developed for biological sequence optimization - such as those used in protein design, can be effectively transferred to symbolic tasks, like solving a Wordle game. At the heart of this project is a powerful analogy:
 
-> **Wordle as symbolic protein design**:
-> - Sequence-based
-> - High-dimensional combinatorial space
-> - Non-differentiable 
+ **Wordle as symbolic protein design**:
+ - Sequence-based
+ - High-dimensional combinatorial space
+ - Non-differentiable 
 
 ---
 
