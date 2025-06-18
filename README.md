@@ -67,7 +67,8 @@ We investigate whether methods developed for biological sequence optimization - 
 ## 🛠️ Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/rl-wordle-selfplay.git
+git clone https://github.com/TzaharAmit/RL_self_play.git
 cd rl-wordle-selfplay
-pip install -r requirements.txt
+run wodle_agent.py
+run wodle_agent_self_play.py
 
