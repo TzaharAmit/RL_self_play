@@ -1,4 +1,5 @@
 # Reinforcement Learning Agent for Symbolic Reasoning Tasks
+![Project Diagram](diagram.png)
 
 This repository contains an implementation of reinforcement learning agents developed for solving complex decision-making tasks. 
 
