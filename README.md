@@ -63,7 +63,7 @@ We investigate whether methods developed for biological sequence optimization - 
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/TzaharAmit/RL_self_play.git
